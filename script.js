@@ -48,7 +48,7 @@ const teams = [
         teamShortName: "KK",
         teamFullName: "Karachi Kings",
         captainImage: "media/warner.png",
-        flagImage: "media/kk-flag.webp",
+        flagImage: "media/kk-flag.jpg",
         captainName: "David Warner",
         color1: "#0D245A",
         color2: "#925F1E"
